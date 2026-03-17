@@ -1,9 +1,8 @@
 ## Hi, I'm Nidhi 👋
 
 🎓 Computer Science student  
-💻 Learning Web Development & Java  
-🌱 Improving Git, GitHub & DSA  
-
+💻 Creating meaningful web solutions with a focus on real-world impact  
+🌱 Enhancing problem-solving skills and exploring AI and emerging technologies  
 
 
 ### 🛠 Tech Stack
