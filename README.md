@@ -8,7 +8,9 @@
 
 ### 🛠 Tech Stack
 - **Languages:** Java, Python  
-- **Frontend:** HTML, CSS, Bootstrap  
+- **Frontend:** HTML, CSS, Bootstrap
+- **Backend:** PHP
+- **Database:** MySQL 
 - **Tools:** Git, GitHub  
 
 
